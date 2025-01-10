@@ -1,1 +1,3 @@
 # Research
+Hello!! Welcome to this page. This is where Tree's research is shared.
+My main research direction is data science, because I am an economics major, so the data analyzed are mostly concentrated in the financial market and economic panel data. If you have any interest in my research, please feel free to contact me, I am very happy to communicate with you!
