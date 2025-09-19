@@ -9,3 +9,6 @@ My main research direction is data science, because I am an economics major, so 
 
 ## Investment list:
 - 1. Compound Rates Simulation (Interactive)
+
+
+
