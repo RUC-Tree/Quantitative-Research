@@ -8,7 +8,7 @@ My main research direction is data science, because I am an economics major, so 
 - 3. Dynamic-Nelson-Siegel(DNS) Model
 
 ## Investment list:
-- 1. Compound Rates Simulation (Interactive)
+- 1. Compound Rates Simulation (Interactive, convert $APY$ to real $r$ and real money$ !
 
 
 
